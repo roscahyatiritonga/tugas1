@@ -1,0 +1,14 @@
+{
+    "name": "lenovo/tugas1",
+    "description": "Tugas 1 SI-Music-Player",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "roscahyatiritonga",
+            "email": "roscahyatiritonga@gmail.com"
+        }
+    ]
+}
